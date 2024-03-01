@@ -1,5 +1,5 @@
 ### Good Day 👋
-I am very happy that you are looking at my page :). Please let's have a look at my repo 
+I am very happy that you are visiting my page. I hope you will find in my repo content that you are looking for. 
 
 <!--
 **MaciejBabicki/MaciejBabicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
