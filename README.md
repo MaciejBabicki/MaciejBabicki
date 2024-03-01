@@ -1,6 +1,6 @@
 ### Good Day 👋
 I am very happy that you are visiting my page. I hope you will find in my repo content that you are looking for. 
-I am a passionate of programming web applications in Java and related technologies. If you are looking for a member to your project you have found a right person! because I am currently looking for a job :)
+I am a passionate of programming web applications in Java and related technologies. If you need a member to your project you have found a right person! because I am currently looking for a job :)
 
 <!--
 **MaciejBabicki/MaciejBabicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
