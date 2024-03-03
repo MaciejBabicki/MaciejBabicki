@@ -3,7 +3,7 @@ I am very happy that you are visiting my page. I hope you will find in my repo c
 I am a passionate of programming web applications in Java and related technologies. If you need a member to your project you have found a 
 right person! because I am currently looking for a job :)
 
-![aaa](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)
+![aaa]()
 
 
 
