@@ -3,7 +3,7 @@ I am very happy that you are visiting my page. I hope you will find in my repo c
 I am a passionate of programming web applications in Java and related technologies. If you need a member to your project you have found a 
 right person! because I am currently looking for a job :)
 
-![aaa]()
+
 
 
 
