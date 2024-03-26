@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciej Babicki</h1>
-<h3 align="center">I am very happy that you are visiting my page. I hope you will find in my repo content that you are looking for. I am a passionate of programming web applications in Java and related technologies. If you need a member to your project you have found a right person! because I am currently looking for a job :)</h3>
+<h3 align="center">I am very happy that you are visiting my page. I hope you will find in my repo the content that you are looking for. I am a passionate about programming web applications in Java and related technologies. If you need a member for your project you have found a right person! Because I am currently looking for a job :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejbabicki&label=Profile%20views&color=0e75b6&style=flat" alt="maciejbabicki" /> </p>
 
