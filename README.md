@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejbabicki&label=Profile%20views&color=0e75b6&style=flat" alt="maciejbabicki" /> </p>
 
-- 🔭 I’m currently working on application which search the programmer [Programmers Application](https://github.com/MaciejBabicki/Programmers)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
