@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciej Babicki</h1>
-<h3 align="center">I am very happy that you are visiting my page. I hope you will find in my repo the content that you are looking for. I am a passionate about programming backend in Java and also use related technologies to make full projects. If you need a member for your project you have found a right person because I am currently looking for a job :)</h3>
+<h3 align="center">Welcome to my GitHub page! I'm glad you're here, and I hope you find the content you're looking for in my repositories. I'm passionate about backend programming in Java and enjoy working with related technologies to build complete projects. If you're looking for a dedicated team member for your project, you're in the right place—I'm currently seeking new opportunities!</h3>
 
 - 🔭 I’m currently working on application which search the programmer [Programmers Application](https://github.com/MaciejBabicki/Programmers)
 
