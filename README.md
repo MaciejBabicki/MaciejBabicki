@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciej Babicki</h1>
 <h3 align="center">Welcome to my GitHub page! I'm glad you're here, and I hope you find the content you're looking for in my repositories. I'm passionate about backend programming and enjoy to build complete projects. If you're looking for a dedicated team member for your project, you're in the right place—I'm currently seeking new opportunities!</h3>
 
-- 🔭 I’m currently working on application which search the programmer [Programmers Application](https://github.com/MaciejBabicki/Programmers)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejbabicki&label=Profile%20views&color=0e75b6&style=flat" alt="maciejbabicki" /> </p>
 
